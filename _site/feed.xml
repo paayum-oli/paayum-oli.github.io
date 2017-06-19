@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>பாயும் ஒளி</title>
+    <description>AG &amp; NT</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Jun 2017 20:56:45 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Jun 2017 20:56:45 +0200</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Sample Post</title>
+        <description>&lt;figure&gt;
+&lt;center&gt;
+  &lt;img src=&quot;/assets/bharathi.jpg&quot; width=&quot;20%&quot; /&gt;
+  &lt;/center&gt;
+&lt;/figure&gt;
+&lt;h2 id=&quot;chumma&quot;&gt;Chumma&lt;/h2&gt;
+&lt;p&gt;Ingae ethavathu ezhuthanum&lt;/p&gt;
+&lt;h3 id=&quot;chumma-chumma&quot;&gt;chumma chumma&lt;/h3&gt;
+&lt;p&gt;Ingae innum konjam ezhuthalam
+Kathai kathaiyaai karanamam.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Jun 2017 00:01:49 +0200</pubDate>
+        <link>http://localhost:4000/sample/update/2017/06/16/SamplePost.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sample/update/2017/06/16/SamplePost.html</guid>
+        
+        
+        <category>sample</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>முதற் பதிவு</title>
+        <description>&lt;figure&gt;
+&lt;center&gt;
+  &lt;img src=&quot;/assets/bharathi1.jpg&quot; width=&quot;20%&quot; /&gt;
+  &lt;/center&gt;
+&lt;/figure&gt;
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;div style=&quot;color:teal&quot;&gt;
+&lt;center&gt;
+சின்னஞ்சிறு கிளியே, கண்ணம்மா! செல்வக் களஞ்சியமே!&lt;br /&gt;
+  என்னைக் கலி தீர்த்தே, உலகில் ஏற்றம் புரிய வந்தாய்!&lt;br /&gt;
+பிள்ளைக் கனியமுதே! கண்ணம்மா! பேசும் பொற் சித்திரமே!&lt;br /&gt;
+  அள்ளி அணைத்திடவே, என் முன்னே ஆடி வரும் தேனே!&lt;br /&gt;
+ஓடி வருகையிலே, கண்ணம்மா உள்ளம் குளிருதடி!&lt;br /&gt;
+  ஆடித் திரிதல் கண்டால், உன்னைப் போய் ஆவி தழுவுதடி!&lt;br /&gt;
+உச்சிதனை முகர்ந்தால், கருவம் ஓங்கி வளருதடி!&lt;br /&gt;
+  மெச்சி உனை ஊரார், புகழ்ந்தால் மேனி சிலிர்க்குதடி!&lt;br /&gt;
+கன்னத்தில் முத்தமிட்டால், உள்ளந்தான் கள்வெறி கொள்ளுதடி!&lt;br /&gt;
+  உன்னைத் தழுவிடலோ, கண்ணம்மா உன்மத்தம் ஆகுதடி!&lt;br /&gt;
+சற்று உன் முகம் சிவந்தால், மனது சஞ்சலம் ஆகுதடி!&lt;br /&gt;
+  நெற்றி சுருங்கக் கண்டால், எனக்கு நெஞ்சம் பதைக்குதடி!&lt;br /&gt;
+உன் கண்ணில் நீர் வடிந்தால், என் நெஞ்சில் உதிரம் கொட்டுதடி!&lt;br /&gt;
+  என் கண்ணிற் பாவையன்றோ? கண்ணம்மா! என்னுயிர் நின்னதன்றோ!
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Ingu pesuvom. niraiya pesuvom.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Jun 2017 00:00:49 +0200</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/06/16/FirstPost.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/06/16/FirstPost.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
