@@ -28,13 +28,13 @@ Here goes! (not exact words, recreating the vague memory of a whatsapp conversat
 
 >>"Dude!"<br>
 "Duuude!"<br>
-"I was reading ``insert title`` paatu dude. That's sema mass dude."<br>
-"Dude, avarai adichikkavae mudiyathu la dude?"<br>
-"Bloody mass dude, that boy!. Dude, neeyum padipaya?"<br>
+"I was reading ``insert title`` paatu dude. That's sema mass."<br>
+"Avarai ellam adichikkavae mudiyathu!"<br>
+"Bloody mass dude, that boy! Neeyum padipaya?"<br>
 "Ofcourse dude!"<br>
-"We should do something dude. We should write up songs we like, and provide our own interpretations dude." <br>
+"We should do something. We should write up songs we like, and provide our own interpretations." <br>
 "Dude, mass idea, we totally should! But antha alavu `gnaanam` laam illaiye enakku!" <br>
-"Dude, namba interpretation, discussion maathiri oru format la! Aanithanama, ithu than sari nu sollavendamae! " <br>
+"Dude, namba interpretation, discussion maathiri oru format la! Aanithanama, ithu than sari nu sollavendame! " <br>
 "Dude, kandippa dude, lets do this!" <br>
 "Bloody mass, we are doing this" <br>
 
