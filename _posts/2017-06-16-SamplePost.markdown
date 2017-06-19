@@ -10,7 +10,7 @@ categories: sample update
 
 <figure>
 <center>
-  <img src="/assets/bharathi.jpg" width="20%">
+  <img src="/assets/bharathi1.jpg" width="20%">
   </center>
 </figure>
 ## Chumma
